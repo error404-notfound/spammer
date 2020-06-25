@@ -26,7 +26,7 @@
 
 ## Descarga/Configura/Uso:
     1? - Descarga de herramineta de github
-         git clone https://github.com/M4sc3r4n0/Evil-Droid.git
+         git clone https://github.com/error404-notfound/spammer.git
 
     2? - Configura este script los permisos de ejecucion
          chmod +x spammer
