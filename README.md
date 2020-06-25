@@ -15,12 +15,12 @@
 <br /><br />
 
 ## Dependencies :
-        1 - xdotool
+    1 - xdotool
 	2 - yad
 
 ## Systemas Operativos :
         1 - Read Os
-	2 - Arch Linux
+	    2 - Arch Linux
         3 - Kali Linux
         4 - Parrot
 
