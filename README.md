@@ -1,24 +1,24 @@
 ## Spammer Mensajes. version 0.1 
     Author: Kevin - Javic [ Error 404 Security ]
 
-## Legal Disclamer:
-    El autor de este script no es responsable por el mal uso de esta herrameinta,
+## Legal :
+    El autor de este script no es responsable por el mal uso de esta herramienta,
     esta creada con fines educativos.
 
-## Description:
+## Descripcion:
     Spammer Mensajes esta creada para enviar muchos mensajes solo hay que escojer las opciones,
     para un mejor uso escoja la red social que nesesite. 
  
-## Screenshot:
+## Capturas:
 ![pic1](https://i.imgur.com/wY8CtPS.png)
 
 <br /><br />
 
-## Dependencies :
+## Dependencias :
     1 - xdotool
 	2 - yad
 
-## Systemas Operativos :
+## Sistemas Operativos :
         1 - Read Os
 	    2 - Arch Linux
         3 - Kali Linux
